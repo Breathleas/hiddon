@@ -1,6 +1,7 @@
 # hiddon
 a undetectiable way to hide rootfs
 only a poc, test success on iphonex(ios 13.5.1), odyssey jailbreak
+wechat pay work fine
 
 总结一下这段时间对于越狱隐藏的研究:
 
